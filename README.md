@@ -78,8 +78,3 @@
 <br><br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
-<!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
-![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
-
-
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
