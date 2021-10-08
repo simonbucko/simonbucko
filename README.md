@@ -53,7 +53,6 @@
 <code><img height="75" src="https://camo.githubusercontent.com/38f5ec2d77b507cbd3ede1ee57ac71cee73c8a7b3db50f40c0036db47f64ccc6/68747470733a2f2f6761727574696c6f72656e7a6f2e6769746875622e696f2f696d616765732f6d7973716c2e706e673f"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png"></code>
 <code><img height="75" src="https://winxptalk.com/wp-content/uploads/2020/10/PROBLEME-AVEC-JAVA-SUR-WINDOWS-10.png?ezimgfmt=rs:331x331/rscb3/ng:webp/ngcb3"></code>
-<code><img height="75" src="https://image.pngaaa.com/546/2459546-middle.png"></code>
 </p>
 </p>
 
