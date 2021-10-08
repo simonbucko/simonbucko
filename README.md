@@ -45,9 +45,12 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>&nbsp;&nbsp;
-  <code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;
-  <code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-  <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></code>
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></code>
+<code><img height="75" src="https://mui.com/static/logo.png"></code>
+<code><img height="75" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png"></code>
+<code><img height="75" src="https://camo.githubusercontent.com/38f5ec2d77b507cbd3ede1ee57ac71cee73c8a7b3db50f40c0036db47f64ccc6/68747470733a2f2f6761727574696c6f72656e7a6f2e6769746875622e696f2f696d616765732f6d7973716c2e706e673f"></code>
 </p>
 </p>
 
